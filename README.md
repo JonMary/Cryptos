@@ -12,5 +12,7 @@
 
 ![Crypto Trading Cheat Shit](https://github.com/JonMary/Cryptos/blob/master/lol.jpg?raw=true)
 
+[Technical Analysis Of The Financial Markets](https://cdn.preterhuman.net/texts/unsorted2/Stock%20books%20029/John%20J%20Murphy%20-%20Technical%20Analysis%20Of%20The%20Financial%20Markets.pdf)
+
 
 
