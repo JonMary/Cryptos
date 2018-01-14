@@ -6,8 +6,8 @@
   [Trailing profits trade objectives](https://cryptoyoda1338.wordpress.com/2017/08/10/trailing-profits-trade-objectives/)
 
 ### Aller + loin:
-  https://www.babypips.com/learn <br>
-  https://www.investopedia.com/
+  [https://www.babypips.com](https://www.babypips.com/learn) <br>
+  [https://www.investopedia.com](https://www.investopedia.com/)
 
 ![Crypto Trading Cheat Shit](https://github.com/JonMary/Cryptos/blob/master/lol.jpg)
 
