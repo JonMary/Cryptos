@@ -9,7 +9,7 @@
   [https://www.babypips.com](https://www.babypips.com/learn) <br>
   [https://www.investopedia.com](https://www.investopedia.com/)
 
-![Crypto Trading Cheat Shit](/blob/master/lol.jpg)
+![Crypto Trading Cheat Shit](https://github.com/JonMary/Cryptos/blob/master/lol.jpg?raw=true)
 
 
 
