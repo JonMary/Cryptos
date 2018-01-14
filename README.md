@@ -1,5 +1,5 @@
 [Mon Twitter](https://twitter.com/JonWaitz)
-### Bon point de départ:
+### Pour commencer:
   [Crypto Trading Bible](https://hackernoon.com/the-cryptocurrency-trading-bible-43d0c57e3fe6) <br>
   [Beginner starter kit for crypto trading](https://alunacrypto.blogspot.fr/2017/06/essential-beginners-starter-kit-for-cryptocurrency-trading-bitcoin-altcoins-ethereum.html)
 
@@ -14,5 +14,5 @@
 
 [Technical Analysis Of The Financial Markets](https://cdn.preterhuman.net/texts/unsorted2/Stock%20books%20029/John%20J%20Murphy%20-%20Technical%20Analysis%20Of%20The%20Financial%20Markets.pdf)
 
-
-
+### Cold Storage:
+[bulletproofbitcoin.com](http://bulletproofbitcoin.com/)
