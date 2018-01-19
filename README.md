@@ -1,6 +1,6 @@
 [Mon Twitter](https://twitter.com/JonWaitz)
 ### Pour commencer:
-  [Crypto Trading Bible](https://hackernoon.com/the-cryptocurrency-trading-bible-43d0c57e3fe6) <br>
+  [How to Start a Portfolio](https://medium.com/@rleshner/how-to-start-a-crypto-portfolio-ec7bc0716a96) <br>
   [Beginner starter kit for crypto trading](https://alunacrypto.blogspot.fr/2017/06/essential-beginners-starter-kit-for-cryptocurrency-trading-bitcoin-altcoins-ethereum.html)
 
 ### Un peu d'analyse technique:
